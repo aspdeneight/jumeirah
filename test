@@ -3,7 +3,7 @@
   <head>
     <title>Test</title>
   </head>
-  <body>
+  <body style="margin:0;">
     <img style="width:100%;" src="https://i.imgur.com/Usx6SHv.jpg">
   </body>
 </html>
